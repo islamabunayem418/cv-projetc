@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color:bisque;
+    font-family: 'Roboto Slab', serif;
+}
+
+.container{
+    max-width:1000px;
+    background-color: rgb(53, 48, 48);
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header{
+
+
+}
+
+.profile{
+    width: 100px;.
+    height: 120px;
+    border: 3px solid gray;
+    border-radius: 30%  ;
+    margin: 10px;
+    padding: 5px;
+    float: left;
+}
+
+.name{
+    color: white;
+    
+    padding: 10px;
+}
+
+.contact{
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+.contact a{
+    text-decoration: none;
+    color: teal;
+    font-weight: bold;
+}
+    
+    
+.contact a:hover{
+    text-decoration:underline;
+    color: white;
+}
+    
+
+h1,h2,h3,h4,h5,h6 {
+    color:aquamarine;
+}
+
+.p1{
+    color: antiquewhite;
+}
+
+.div-clear{
+    clear: both;
+}
+
+                        /* DIV CLEAR */
+        /* Job experiance start */
+h1,h2,h3,h4,h5,h6 {
+    color:aquamarine;
+}
+
+hr{
+    border: solid wheat 3px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+#personal-section{
+    margin: 30px ;
+}
+
+.left-div {
+    width: 30%;
+    float: left;   
+}
+
+.right-div {
+    width: 70%;
+    float: right;
+
+.p2{
+    color: antiquewhite;
+}
+            /* Job experiance end */
+.common-hr {
+
+}
+
+.left-div{
+   padding-left: 20px;
+}
+Table, th, td{
+    border: 2px solid;
+    color: antiquewhite;
+    border-collapse: collapse;
+}
+                 /* div clear */
+
+    /* Refferance start */
+p{
+    color: antiquewhite;
+}
+
+.edu-tam-left{
+    float: left;
+    width: 45%;
+}
+
+.edu-tam-right{
+    float: right;
+    width: 45%;
+}
+
+/* footer start */
+
+.bottom-container{
+   background-color: white;
+   text-align: center;
+
+}
